@@ -1,0 +1,46 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Lato', sans-serif;
+    color: #000;
+  }
+  
+  .studentprofile .card {
+    border-radius: 10px;
+  }
+  
+  .studentprofile .card .card-header .profileimg {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    margin: 10px auto;
+    border: 10px solid #ccc;
+    border-radius: 50%;
+  }
+  
+  .studentprofile .card h3 {
+    font-size: 20px;
+    font-weight: 700;
+  }
+  
+  .studentprofile .card p {
+    font-size: 16px;
+    color: #000;
+  }
+  
+  .studentprofile .table th,
+  .studentprofile .table td {
+    font-size: 14px;
+    padding: 5px 10px;
+    color: #000;
+  }
+
+  input{
+      border: 0;
+      width: 35%;
+      font-size: 1rem;
+      background-color: #000;
+      color:white;
+      border-radius: 4px;
+      
+  }
